@@ -1,13 +1,15 @@
-<!-- 🌟 Professional GitHub Portfolio for PAWANxDEV-VIP -->
+<!-- 🌟 Animated Professional GitHub Portfolio for PAWANxDEV-VIP -->
 
-<h1 align="center">👋 Hey, I'm <span style="color:#00C853;">DEV - PAWAN</span></h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&color=00FF99&center=true&vCenter=true&width=600&lines=👋+Hey,+I'm+DEV+-+PAWAN;💻+Developer+%7C+🎮+Gamer+%7C+Bot+Maker;🚀+Discord+%26+Minecraft+Developer!" alt="Typing Animation">
+</h1>
 
 <p align="center">
-  <img src="./banner.jpg" alt="DEV - PAWAN Banner" width="800"/>
+  <img src="./banner.gif" alt="DEV - PAWAN Banner" width="800"/>
 </p>
 
 <p align="center">
-  <b>💻 Developer | 🎮 Gamer | ☁️ Discord Bot & Server Developer | 🧱 Minecraft Server Dev</b>
+  <b>💻 Full Stack Developer | ☁️ Discord & Minecraft Developer | 🎮 Gamer | 🎥 Creator</b>
 </p>
 
 ---
@@ -15,7 +17,7 @@
 ## 🧠 Languages & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,nodejs,javascript,react,git,github,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,nodejs,javascript,react,git,github,vscode,linux&perline=6" />
 </p>
 
 ---
@@ -42,7 +44,7 @@
 | 🎂 **Age** | 17 Years |
 | 🧠 **Username** | [PAWANxDEV-VIP](https://github.com/PAWANxDEV-VIP) |
 | 🌍 **From** | India |
-| ⚡ **Passion** | Building bots, automations & cool community tools |
+| ⚡ **Passion** | Building bots, automation tools & gaming servers |
 
 ---
 
@@ -50,19 +52,27 @@
 
 > 🏅 **Total Stars:** ![Stars](https://img.shields.io/github/stars/PAWANxDEV-VIP?style=for-the-badge&logo=github)  
 > 💻 **Total Projects:** ![Projects](https://img.shields.io/badge/Projects-10+-brightgreen?style=for-the-badge&logo=codefactor)  
-> 🧠 **Achievements:** “Creating tools that help developers and gamers connect.”
+> 🧠 **Achievements:** “Creating cool tools that connect gamers & developers.”
 
 ---
 
-## 📊 GitHub Analytics
+## ⚡ GitHub Analytics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PAWANxDEV-VIP&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PAWANxDEV-VIP&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PAWANxDEV-VIP&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PAWANxDEV-VIP&theme=radical&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAWANxDEV-VIP&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAWANxDEV-VIP&layout=compact&theme=radical&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🧬 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PAWANxDEV-VIP&theme=react-dark&hide_border=true&area=true" width="95%"/>
 </p>
 
 ---
@@ -86,5 +96,5 @@
 <h3 align="center">⭐ “Code, Create, and Inspire.” ⭐</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PAWANxDEV-VIP&color=brightgreen&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=PAWANxDEV-VIP&color=00FF99&style=for-the-badge" />
 </p>
