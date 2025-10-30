@@ -1,9 +1,9 @@
-<!-- 🌟 Professional GitHub Portfolio -->
+<!-- 🌟 Professional GitHub Portfolio for PAWANxDEV-VIP -->
 
 <h1 align="center">👋 Hey, I'm <span style="color:#00C853;">DEV - PAWAN</span></h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/FzT4m4B.gif" alt="Banner" width="600"/>
+  <img src="./banner.jpg" alt="DEV - PAWAN Banner" width="800"/>
 </p>
 
 <p align="center">
@@ -24,11 +24,11 @@
 
 <table align="center">
 <tr>
-<td align="center"><img src="https://cdn-icons-png.flaticon.com/512/906/906361.png" width="40"/><br><b>Discord Bot Dev</b></td>
-<td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="40"/><br><b>Discord Server Dev</b></td>
-<td align="center"><img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/4e/Grass_Block_JE3_BE2.png" width="40"/><br><b>Minecraft Server Dev</b></td>
-<td align="center"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40"/><br><b>YouTuber</b></td>
-<td align="center"><img src="https://cdn-icons-png.flaticon.com/512/633/633600.png" width="40"/><br><b>Gamer</b></td>
+<td align="center"><img src="https://cdn-icons-png.flaticon.com/512/906/906361.png" width="45"/><br><b>Discord Bot Dev</b></td>
+<td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="45"/><br><b>Discord Server Dev</b></td>
+<td align="center"><img src="./mcicon.png" width="45"/><br><b>Minecraft Server Dev</b></td>
+<td align="center"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="45"/><br><b>YouTuber</b></td>
+<td align="center"><img src="https://cdn-icons-png.flaticon.com/512/633/633600.png" width="45"/><br><b>Gamer</b></td>
 </tr>
 </table>
 
@@ -42,7 +42,7 @@
 | 🎂 **Age** | 17 Years |
 | 🧠 **Username** | [PAWANxDEV-VIP](https://github.com/PAWANxDEV-VIP) |
 | 🌍 **From** | India |
-| ⚡ **Passion** | Building bots, automations & cool projects |
+| ⚡ **Passion** | Building bots, automations & cool community tools |
 
 ---
 
